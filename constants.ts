@@ -12,7 +12,7 @@ export const PERSONAL_INFO = {
   // Placeholder for the user's image. In a real scenario, this would be an asset import or hosted URL.
   // Using a professional placeholder that matches the vibe.
   avatarUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&q=80",
-  resumeUrl: "https://godentalclinic-sample.vercel.app/"
+  resumeUrl: "https://drive.google.com/file/d/1hLoanZWP5CmcB8VmKMdbfLaxdTts4G7p/view?usp=sharing"
 };
 
 export const SKILLS_DATA: Skill[] = [
